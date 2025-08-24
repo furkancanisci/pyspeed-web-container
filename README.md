@@ -1,6 +1,6 @@
 # 🚀 PySpeed Web Container
 
-A revolutionary high-performance Python web acceleration system that dramatically speeds up Python web applications using C++ containerization technology. This project extends the proven approach from `cpythonwrapper` to real-world web applications.
+High performance Python web acceleration system that dramatically speeds up Python web applications using C++ containerization technology. This project extends the proven approach from `cpythonwrapper` to real-world web applications.
 
 ## 🎯 Performance Goals
 
