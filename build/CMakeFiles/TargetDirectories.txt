@@ -1,0 +1,3 @@
+/Users/furkancanisci/pyspeed-web-container/build/CMakeFiles/pyspeed_accelerated.dir
+/Users/furkancanisci/pyspeed-web-container/build/CMakeFiles/edit_cache.dir
+/Users/furkancanisci/pyspeed-web-container/build/CMakeFiles/rebuild_cache.dir
